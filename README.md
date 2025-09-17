@@ -1,6 +1,6 @@
 # Simple Battleship Terminal Game
 
-Battleship game that runs in terminal.
+Battleship game that runs in terminal. Created July 2024.
 
 ## Description
 
