@@ -26,7 +26,6 @@ a winner.
 ```
 python3 main.py
 ```
-* <img src=></img>
 
 ## Authors
 
