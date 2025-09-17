@@ -21,10 +21,12 @@ a winner.
 ### Executing program
 
 * How to run the program
-* Step-by-step bullets
+* Download main.py file and make sure you have python installed
+* To start program in terminal:
 ```
-code blocks for commands
+python3 main.py
 ```
+* <img src=></img>
 
 ## Authors
 
