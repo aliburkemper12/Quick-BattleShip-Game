@@ -31,4 +31,4 @@ python3 main.py
 
 Contributors names and contact info
 
-ex. Ali Burkemper
+Ali Burkemper
