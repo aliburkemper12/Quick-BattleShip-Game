@@ -4,7 +4,7 @@ Battleship game that runs in terminal.
 
 ## Description
 
-This project was created as a personal project to learn python. The logic used for the game was created by me to challenege myself to think through a problem and execute it in Python. 
+This project was created as a personal project to learn python. The logic used for the game was created by me to challenge myself to think through a problem and execute it in Python. 
 The game randomly places the ships upon start up. To make the game harder the user only gets 25 tries. After the user uses their 25 tries the game ends in a failure, or if the user gets all ships before then the user is declared
 a winner.
 
